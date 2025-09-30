@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I’m a 🎓 student of Computer and Control Systems Engineering,<br>and a passionate Frontend Developer specializing in React.<br>I also have hands-on experience with .NET (MVC & Web API) for backend development, giving me a solid understanding of full-stack workflows.<br>🚀 I'm constantly learning, working on personal projects, and exploring new technologies to sharpen my skills.</h4>
+<h4 align="left"><br>Frontend Developer specializing in React.<br>I also have hands-on experience with .NET (MVC & Web API) for backend development, giving me a solid understanding of full-stack workflows.<br>🚀 I'm constantly learning, working on personal projects, and exploring new technologies to sharpen my skills.</h4>
 
 ###
 
